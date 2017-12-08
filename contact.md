@@ -2,6 +2,7 @@
 layout: page
 title: Contact
 tagline: Have some questions?
+permalink: /contact
 ---
 
 If you have some questions or need to talk with me, please check [about](https://priyono.id/about.html)
