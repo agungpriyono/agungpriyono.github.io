@@ -2,7 +2,7 @@
 layout: page
 title: About
 tagline: Me and my website
-permalink: /about.html
+permalink: /about
 ---
 
 Email : [iv.agung.ep@outlook.co.id](mailto:iv.agung.ep@outlook.co.id)
