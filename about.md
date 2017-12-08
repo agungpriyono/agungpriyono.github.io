@@ -1,14 +1,14 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: Me and my website
 permalink: /about.html
 ---
 
-Email : [iv.agung.ep@outlook.co.id](mailto:iv.agung.ep@outlook.co.id) 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+Email : [iv.agung.ep@outlook.co.id](mailto:iv.agung.ep@outlook.co.id)
+Phone Number : [+62 815-1936-6977](tel:+6281519366977)
+Line, IG, Twitter : iv_agung_ep
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
-
+Thanks for lorepirri, this website build from [cayman-blog](https://github.com/lorepirri/cayman-blog).
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
