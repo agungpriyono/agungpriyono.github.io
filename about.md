@@ -13,7 +13,7 @@ Line, IG, Twitter : iv_agung_ep
 
 <br>
 Thanks for lorepirri, this website build from [cayman-blog](https://github.com/lorepirri/cayman-blog).
-
+--------------------------
 Terima kasih kepada lorepirri, situs web ini di bangun menggunakan tema cayman-blog. 
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
