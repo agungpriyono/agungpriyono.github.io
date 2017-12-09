@@ -3,7 +3,6 @@ layout: page
 title: About
 tagline: Me and my website
 permalink: /about
-comments: true
 ---
 
 Email : [iv.agung.ep@outlook.co.id](mailto:iv.agung.ep@outlook.co.id)
