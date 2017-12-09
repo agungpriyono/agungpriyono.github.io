@@ -13,6 +13,9 @@ cayman-blog:
 
 theme: # leave it empty
 
+plugins:
+  - jekyll-mentions
+
 # social
 author: "I V Agung Eko Priyono"
 image: /thumbnail-jumbo.png
