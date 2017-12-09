@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Posting pertama menggunakan _jekyll_ dan _GitHub Page_
+title: Posting pertama menggunakan Jekyll dan GitHub Page
 tagline: Kesan susah gampang menggunakannya. kemudahan dan kerumitan yang menjadi satu ada disini.
 ---
 
