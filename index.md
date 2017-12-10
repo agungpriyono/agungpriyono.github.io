@@ -8,4 +8,8 @@
 layout: home
 ---
 
+Selamat datang di situs web personal dari I V Agung EKo Priyono. 
+
+Semoga informasi disini bermanfaat bagi kita semua.
+
 
