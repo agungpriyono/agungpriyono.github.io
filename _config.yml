@@ -1,5 +1,9 @@
 title: PRIYONO.ID
-description: Personal website of I V Agung Eko Priyono,
+description: Selamat datang di situs web personal dari I V Agung EKo Priyono, semoga informasi disini bermanfaat bagi kita semua.
+
+Journey to be Simple.
+
+
 show_downloads: false
 
 baseurl: "/" # change this to the subpath of your site, e.g. /blog. Leave it empty if you don't need it.
@@ -7,7 +11,7 @@ url: "https://priyono.id" # change this to the base hostname & protocol for your
 
 plugins:
   - jekyll-mentions
-
+  
 permalink: pretty
 
 google_analytics:
