@@ -2,6 +2,7 @@
 layout: post
 title: Posting pertama menggunakan Jekyll dan GitHub Page
 tagline: Kesan susah gampang menggunakannya. kemudahan dan kerumitan yang menjadi satu ada disini.
+comments: true
 ---
 
 Halo semua, selmat datang di wajah baru website saya, dengan menggunakan _platform_ Jekyll dan host Github Pages. platform yang unik sebetulnya mari kita bahas lebih lanjut.
