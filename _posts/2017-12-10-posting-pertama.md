@@ -35,3 +35,7 @@ Saya juga baru menyadari jika GitHub yang saya kira sulit untuk dimengerti menja
 4. git commit -m "Jelaskan perubahan apa yang dilakukan disini"
 5. git push origin master
 ```
+
+## Jalan Cerita
+
+Semula saya mencoba hal indah ini melalui eOS (Elementary OS) 
