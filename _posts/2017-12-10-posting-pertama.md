@@ -2,6 +2,7 @@
 layout: post
 title: Posting pertama menggunakan Jekyll dan GitHub Page
 tagline: Kesan susah gampang menggunakannya. kemudahan dan kerumitan yang menjadi satu ada disini.
+category: Lainnya
 comments: true
 ---
 
