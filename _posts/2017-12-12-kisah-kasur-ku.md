@@ -17,4 +17,10 @@ Entah siapa pelopornya, aku akhirnya makan di tempat akang bakso entah dimana it
 
 ### Menuju kejadian
 
-Lama aku terlelap, Malik membangunkan aku dan mengajak aku pulang. Akhirnya aku dengan mata yang masih berat membawa motor di belakang ..... 
+Lama aku terlelap, Malik membangunkan aku dan mengajak aku pulang. Akhirnya aku dengan mata yang masih berat membawa motorku sendiri, diperjalanan aku selalu dibelakang Malik sampai akhirnya aku terlelap di motor dan terjadilah hal yang tidak di inginkan. Aku terjatuh atau terpental atau apapun aku tidak ingat, yang aku ingat mulutku berdarah, badanku terasa sakit dan motorku di tengah jalan serta helemku yang kacanya pecah.
+
+Darah dari mulutku tidak berhenti mengalir, yang akhirnya kusadari bahwa gigi depanku hilang 3 darah seakan dak ada habisnya dan ngilu tak terbendung, saat aku mencoba tenang aku melihat temat jatuhku **tepat berada di depan RS Medika** sungguh kebetulan yang kedua. Prtugas Keamanan disana dengan sigap membawakanku kursi roda sejurus kemudian aku dibawa ke UGD, perawat disana sepertinya sudah terbiasa dengan kejadianseperti ini dengan tidak ada rasa terkejut mereka memberihkan darahku dan memberikan pertolongan pertama.
+
+Karena sebagian lukaku harus di ambil tindakan mereka menanyakanapakah mengunggu pihak keluarga atau langsung diambil tindakan, mereka sudah menelpon orang tuaku melalui ponselku dan telepon rumah sakit. sesaat setelah orang tuaku datang perawat langsung mengambil alat alat yang dibutuhkan. Kepalaku ditutup, menyisakan mulutku. Baik kaki maupun bibirku disuntik hingga akhirnya semua tidak terasa sakit tapi aku tetap merasakan ada tusukan demi tusukan baik dari jarum suntuk ataupun alat jahit disana. Entah berapa lama akhirnya semua selesai, aku sulit untuk berbicara, perawat bilang kalau bibir dalamku dijahit jadi butuh penyesuaian dan mukaku terkena hantama jadi bagian bibir pasti membengkak.
+
+Anggap saja hari ini telah berlalu, karena tadi adalah puncak ceritaku. Dan karena ini aku bertahan 2 minggu di kasur.
